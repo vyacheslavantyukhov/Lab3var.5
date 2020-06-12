@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1588242343 source:c:\users\79085\desktop\lab3pop2\grocery.cpp
+	<iostream>
+	"Tovar.h"
+	"Grocery.h"
+
+1588242343 c:\users\79085\desktop\lab3pop2\tovar.h
+
+1588242343 c:\users\79085\desktop\lab3pop2\grocery.h
+	"Tovar.h"
+
+1588242343 source:c:\users\79085\desktop\lab3pop2\main.cpp
+	<iostream>
+	"Tovar.h"
+	"Fruit.h"
+	"Milk.h"
+	"Grocery.h"
+
+1588242344 c:\users\79085\desktop\lab3pop2\fruit.h
+	"tovar.h"
+
+1588242894 c:\users\79085\desktop\lab3pop2\milk.h
+	"Tovar.h"
+
+1588242894 source:c:\users\79085\desktop\lab3pop2\milk.cpp
+	<iostream>
+	"Tovar.h"
+	"Milk.h"
+
+1588242894 source:c:\users\79085\desktop\lab3pop2\tovar.cpp
+	<iostream>
+	"Tovar.h"
+
+1588242951 source:c:\users\79085\desktop\lab3pop2\fruit.cpp
+	<iostream>
+	"Tovar.h"
+	"Fruit.h"
+
